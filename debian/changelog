@@ -1,3 +1,9 @@
+wp360-codesys-bridge (0.5.4-1) trixie; urgency=low
+
+  * Change stop switch key.
+
+ -- Overdigit <info@overdigit.com>  Wed, 07 Oct 2026 15:07:50 +0200
+
 wp360-codesys-bridge (0.5.3-1) trixie; urgency=low
 
   * Stop trying to run bridges as root by default.
