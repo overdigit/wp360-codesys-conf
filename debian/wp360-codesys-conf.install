@@ -1,0 +1,4 @@
+var/lib/CodeMeter/CmAct_ewf
+usr/libexec/wp360-codesys-bridge/wp360-codesys-stopswitch
+usr/lib/systemd/system/codesyscontrol.service.d/19-stopswitch.conf
+etc/codesyscontrol/CODESYSControl_WP360.cfg
